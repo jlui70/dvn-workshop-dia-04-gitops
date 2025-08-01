@@ -9,7 +9,7 @@ resources:
 images:
 - name: 654654554686.dkr.ecr.us-west-1.amazonaws.com/dvn-workshop/production/backend
   newName: 654654554686.dkr.ecr.us-west-1.amazonaws.com/dvn-workshop/production/backend
-  newTag: 22e02dca1e75c085f55661e8fe647f1c1a52bb21
+  newTag: ca11f0e1278312b5695e75d877190821c61d8cd6
 - name: 654654554686.dkr.ecr.us-west-1.amazonaws.com/dvn-workshop/production/frontend
   newName: 654654554686.dkr.ecr.us-west-1.amazonaws.com/dvn-workshop/production/frontend
   newTag: v1.0
