@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/kenerry-serain/dvn-workshop-dia-04-gitops.git
+    repoURL: https://github.com/jlui70/dvn-workshop-dia-04-gitops.git
     targetRevision: HEAD
     path: .
   destination:
