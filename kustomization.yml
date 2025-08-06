@@ -9,7 +9,7 @@ resources:
 images:
 - name: 794038226274.dkr.ecr.us-east-1.amazonaws.com/devops-project/production/backend
   newName: 794038226274.dkr.ecr.us-east-1.amazonaws.com/devops-project/production/backend
-  newTag: ba519aa486db6fe1d855967e89c7e837b7095041
+  newTag: 500d1ed9d3dcbc65599468a121fca4717f74468d
 - name: 794038226274.dkr.ecr.us-east-1.amazonaws.com/devops-project/production/frontend
   newName: 794038226274.dkr.ecr.us-east-1.amazonaws.com/devops-project/production/frontend
   newTag: v1.0
